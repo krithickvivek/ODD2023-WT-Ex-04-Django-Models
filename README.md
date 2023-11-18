@@ -106,6 +106,9 @@ In the admin/ page you can view the models created
 And  in the user_profile template page you can see the profile page of the user.
 
 ## OUTPUT:
+![Out](<Screenshot 2023-10-20 113404.png>)
+
+
 ![output](<Screenshot 2023-11-18 203627.png>)
 
 ## RESULT:
